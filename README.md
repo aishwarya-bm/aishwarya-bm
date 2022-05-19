@@ -1,7 +1,7 @@
 Hi 👋 My name is Aishwarya Biradar
 ==================================
 
-Web development enthusiast
+Web development enthusiast | ReactJS developer
 --------------------------
 
 I started off my career in low code platforms, and gradually switched to backend development. Finally, I have found a passion for front-end development. I love creating websites and cant wait to learn and explore more. Currently hooked onto ReactJS.
